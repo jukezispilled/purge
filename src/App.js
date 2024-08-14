@@ -38,7 +38,7 @@ function App() {
       <div className="relative overflow-hidden w-full h-full flex justify-center items-center">
         <img
           src={isPlaying ? "purge.png" : "purge1.png"}
-          className="absolute -left-[7%] rotate-45 bottom-0 w-[60%] -translate-x-[7%] translate-y-[10%]"
+          className="absolute -left-[7%] rotate-[30deg] md:rotate-45 bottom-0 w-[170%] md:w-[60%] -translate-x-[12%] md:-translate-x-[7%] translate-y-[10%]"
           alt="Purge"
         />
       </div>
