@@ -64,7 +64,7 @@ function App() {
           scale: [1, 1.2, 1],
           transition: { 
             repeat: Infinity, 
-            duration: 1.5
+            duration: .9
           }
         }}
       >
