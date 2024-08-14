@@ -43,7 +43,7 @@ function App() {
         />
       </div>
       <div className='absolute top-5 text-center text-[#FF0000] text-[10px] md:text-base'>
-        CA: XXXXXXXXXXXXXX
+        CA: 47H3PFrB37Rwhs52L6esPr6bmue4bteCXhVbj6aVpump
       </div>
       <div className='absolute bottom-5 right-5 flex justify-center items-center z-10'>
         <a href="https://x.com/solanapurge" className=''>
