@@ -37,7 +37,7 @@ function App() {
       <audio ref={audioRef} src={`${process.env.PUBLIC_URL}/purge.mp3`} />
       <div className="relative overflow-hidden w-full h-full flex justify-center items-center">
         <img
-          src="purge.png"
+          src={isPlaying ? "purge.png" : "purge1.png"}
           className="absolute -left-[7%] rotate-45 bottom-0 w-[60%] -translate-x-[7%] translate-y-[10%]"
           alt="Purge"
         />
